@@ -14,7 +14,7 @@ This plugin makes it easy to to fill layers in Sketch with devices.
 
 or 
 
-Or clone it yourself:
+Clone it yourself:
 
     $ git clone https://github.com/paulfarino/sketch-device-collection.git
 
