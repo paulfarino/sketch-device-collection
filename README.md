@@ -19,9 +19,9 @@ Or clone it yourself:
     $ git clone https://github.com/paulfarino/sketch-device-collection.git
 
 -------------
-Brought to you by [Paul Farino](https://github.com/paulfarino)
-Based on the work of [ImageFiller for Sketch](https://github.com/awt2542/ImageFiller)
-iOS Devices by [Robbie Pearce](http://robbiepearce.com/devices)
+Brought to you by [Paul Farino](https://github.com/paulfarino)  
+Based on the work of [ImageFiller for Sketch](https://github.com/awt2542/ImageFiller)  
+iOS Devices by [Robbie Pearce](http://robbiepearce.com/devices)  
 Nexus5 Device by [Tristan Remy](http://tristanremy.com/nexus-5/)
 
 
