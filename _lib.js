@@ -48,7 +48,7 @@ function getImagesFromPath(imagesPath){
       var fileName = imagesPath+theimages[r];
       if (fileManager.fileExistsAtPath(fileName)) {
         image = [[NSImage alloc] initWithContentsOfFile:fileName];
-        firstFill.setPatternImage(image);
+        firstFill.setImage(image);
       }
       theimages.removeObjectAtIndex(r)
     }
